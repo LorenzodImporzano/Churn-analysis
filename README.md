@@ -19,4 +19,4 @@ Bank transfer (automatic), Credit card (automatic)
 9) “TotalCharges”, The total amount charged to the customer
 10) “Churn”,Whether the customer churned or not (Yes or No)
 
-For this algorithm, which reaches a 80.04% accuracy of the prediction, we were enlisted among the three winning groups.
+For this algorithm, which reached a 80.04% accuracy of the prediction when tested by the judges of the competition, we were enlisted among the three winning groups.
